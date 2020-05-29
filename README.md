@@ -1,2 +1,2 @@
 # Linear-Programming
-- examples of linear programming skills using Analytics Solver
+- examples of linear programming and Monte Carlo simulation using Analytics Solver
